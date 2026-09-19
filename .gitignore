@@ -1,0 +1,27 @@
+# 코드 저장소
+/codes
+
+# Python
+*.py
+*.pyc
+.venv/
+
+# Node
+*.js
+*.jsx
+*.ts
+*.tsx
+node_modules
+
+# env file
+.env
+
+# Build Outputs
+.next/
+out/
+build
+dist
+
+# Misc
+.DS_Store
+*.pem
